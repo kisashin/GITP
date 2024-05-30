@@ -1,0 +1,27 @@
+C:\Users\Cris\Desktop\PRUEBA>git init
+Initialized empty Git repository in C:/Users/Cris/Desktop/PRUEBA/.git/
+
+C:\Users\Cris\Desktop\PRUEBA>cd .git
+
+C:\Users\Cris\Desktop\PRUEBA\.git>cd..
+
+C:\Users\Cris\Desktop\PRUEBA>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Cris\Desktop\PRUEBA>
+
+C:\Users\Cris\Desktop\terminal>git init
+Initialized empty Git repository in C:/Users/Cris/Desktop/terminal/.git/
+
+C:\Users\Cris\Desktop\terminal>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Cris\Desktop\terminal>
